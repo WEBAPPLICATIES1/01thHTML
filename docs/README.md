@@ -1,8 +1,13 @@
-# Chapter 2 HTML - Theory
-Introduction to HTML: 
-- Page structure;
-- Usage of base tags and attributes.
-
-## Example
-The complete example as elaborated in the class can be downloaded by clicking on the green **Clone or Download** button at the top of this page. An online preview of the deployed website can be found [here](https://webapplicaties1.github.io/02thHTML/).
-> Remark: You can ignore the **docs** folder. The files you need are located in the **exercise** folder.
+# Hoofdstuk 1: HTML
+Basis om webpagina's te ontwikkelen: 
+- Structuur van een webpagina.
+- Tags, elementen en attributen.
+- Semantic
+- Logische indeling
+- Tekst
+- Lijsten
+- Hyperlinks
+- Afbeeldingen
+## Voorbeeld
+Het volledige voorbeeld, uitgewerkt in de [video](https://www.youtube.com/watch?v=1BeQCWVrKww&list=PLgKzo3JzWykOMX6YNbapGKQm_Iscgzyso) kan je downloaden door op de groene knop **Clone or Download** bovenaan deze pagina te klikken. Je kan het resultaat van dit voorbeeld [hier](https://webapplicaties1.github.io/02thHTML/) bekijken.
+> Opmerking: je mag de **docs** map negeren. De nodige bestanden vind je in de **exercise** map.
